@@ -1,0 +1,229 @@
+ID                  | Num | Name                    
+siriushits1         | 2   | SiriusXM Hits 1         
+9492                | 3   | Pandora Now             
+9500                | 4   | SoulCycle Radio         
+siriusgold          | 5   | 50s on 5                
+60svibrations       | 6   | 60s on 6                
+totally70s          | 7   | 70s on 7                
+big80s              | 8   | 80s on 8                
+8206                | 9   | 90s on 9                
+8208                | 10  | Pop2K                   
+8241                | 11  | KIIS-Los Angeles        
+9450                | 12  | PopRocks                
+9406                | 13  | Pitbull's Globalization 
+coffeehouse         | 14  | The Coffee House        
+thepulse            | 15  | The Pulse               
+starlite            | 16  | The Blend               
+thebridge           | 17  | The Bridge              
+9446                | 18  | The Beatles Channel     
+elvisradio          | 19  | Elvis Radio             
+estreetradio        | 20  | E Street Radio          
+undergroundgarage   | 21  | Underground Garage      
+8370                | 22  | Pearl Jam Radio         
+gratefuldead        | 23  | Grateful Dead           
+radiomargaritaville | 24  | Radio Margaritaville    
+classicrewind       | 25  | Classic Rewind          
+classicvinyl        | 26  | Classic Vinyl           
+thevault            | 27  | Deep Tracks             
+thespectrum         | 28  | The Spectrum            
+9139                | 29  | Phish Radio             
+9506                | 30  | Dave Matthews Band Radio
+9407                | 31  | Tom Petty Radio         
+9507                | 32  | U2 X-Radio              
+firstwave           | 33  | 1st Wave                
+90salternative      | 34  | Lithium                 
+leftofcenter        | 35  | SiriusXMU               
+altnation           | 36  | Alt Nation              
+octane              | 37  | Octane                  
+buzzsaw             | 38  | Ozzy's Boneyard         
+hairnation          | 39  | Hair Nation             
+hardattack          | 40  | Liquid Metal            
+9413                | 41  | SiriusXM Turbo          
+reggaerhythms       | 42  | The Joint               
+9471                | 43  | Rock the Bells Radio    
+hiphopnation        | 44  | Hip-Hop Nation          
+shade45             | 45  | Shade 45                
+hotjamz             | 46  | The Heat                
+9339                | 47  | SiriusXM FLY            
+heartandsoul        | 48  | Heart & Soul            
+soultown            | 49  | Soul Town               
+8228                | 50  | The Groove              
+thebeat             | 51  | BPM                     
+9472                | 52  | Diplo's Revolution      
+chill               | 53  | SiriusXM Chill          
+9145                | 54  | Studio 54 Radio         
+9421                | 55  | The Garth Channel       
+newcountry          | 56  | The Highway             
+9418                | 57  | No Shoes Radio          
+primecountry        | 58  | Prime Country           
+theroadhouse        | 59  | Willie's Roadhouse      
+outlawcountry       | 60  | Outlaw Country          
+9340                | 61  | Y2Kountry               
+bluegrass           | 62  | Bluegrass Junction      
+spirit              | 63  | The Message             
+praise              | 64  | Kirk Franklin's Praise  
+8229                | 65  | enLighten               
+jazzcafe            | 66  | Watercolors             
+purejazz            | 67  | Real Jazz               
+spa73               | 68  | Spa                     
+8215                | 69  | Escape                  
+9482                | 70  | The Billy Joel Channel  
+siriuslysinatra     | 71  | Siriusly Sinatra        
+broadwaysbest       | 72  | On Broadway             
+8205                | 73  | 40s Junction            
+siriusblues         | 74  | BB King's Bluesville    
+metropolitanopera   | 75  | Met Opera Radio         
+symphonyhall        | 76  | Symphony Hall           
+9366                | 77  | KIDZ BOP Radio          
+8216                | 78  | Kids Place Live         
+radiodisney         | 79  | Radio Disney            
+espnradio           | 80  | ESPN Radio              
+8254                | 81  | ESPN Xtra               
+8213                | 82  | Mad Dog Sports Radio    
+siriussportsaction  | 84  | ESPNU Radio             
+9467                | 85  | Barstool Radio on SXM   
+9494                | 93  | Netflix Is A Joke Radio 
+9408                | 94  | Comedy Greats           
+9356                | 95  | Comedy Central Radio    
+9469                | 96  | KevinHart Laugh Out Loud
+bluecollarcomedy    | 97  | Comedy Roundup          
+laughbreak          | 98  | Laugh USA               
+rawdog              | 99  | Raw Dog Comedy          
+9409                | 102 | Radio Andy              
+8184                | 103 | Faction Talk            
+9351                | 105 | Scream Radio            
+9442                | 106 | VOLUME                  
+9390                | 108 | TODAY Show Radio        
+siriusstars         | 109 | SiriusXM Stars          
+doctorradio         | 110 | Doctor Radio            
+9449                | 111 | Triumph                 
+cnbc                | 112 | CNBC                    
+9369                | 113 | FOX Business            
+foxnewschannel      | 114 | FOX News Channel        
+9410                | 115 | FOX News Headlines 24/7 
+cnn                 | 116 | CNN                     
+cnnheadlinenews     | 117 | HLN                     
+8367                | 118 | MSNBC                   
+bloombergradio      | 119 | Bloomberg Radio         
+bbcworld            | 120 | BBC World Service       
+nprnow              | 122 | NPR Now                 
+8239                | 123 | PRX Remix               
+indietalk           | 124 | POTUS Politics          
+siriuspatriot       | 125 | SiriusXM Patriot        
+8238                | 126 | SiriusXM Urban View     
+siriusleft          | 127 | SiriusXM Progress       
+9392                | 128 | Joel Osteen Radio       
+thecatholicchannel  | 129 | The Catholic Channel    
+ewtnglobal          | 130 | EWTN Radio              
+8307                | 131 | Family Talk             
+9359                | 132 | Business Radio          
+9129                | 141 | HUR Voices              
+9130                | 142 | HBCU                    
+9131                | 143 | BYUradio                
+9132                | 144 | Korea Today             
+9411                | 145 | SLAM Radio              
+roaddogtrucking     | 146 | Road Dog Trucking       
+9367                | 147 | RURAL Radio             
+radioclassics       | 148 | RadioClassics           
+9135                | 152 | En Vivo                 
+9134                | 153 | La Politica Talk        
+9133                | 154 | Cachita Latina Radio    
+8230                | 156 | SiriusXM Fight Nation   
+rumbon              | 158 | Caliente                
+cbcradio3           | 162 | CBC Radio 3             
+8245                | 163 | ICI Musique Chansons    
+9358                | 165 | Canadian IPR            
+rockvelours         | 166 | ICI FrancoCountry       
+9172                | 167 | Canada Talks            
+8259                | 168 | Just For Laughs Canada  
+cbcradioone         | 169 | CBC Radio One           
+premiereplus        | 170 | ICI Première            
+bandeapart          | 171 | CBC Country             
+8248                | 172 | SiriusXM Scoreboard     
+8244                | 173 | The Verge               
+8246                | 174 | Influence Franco        
+9448                | 204 | Vegas Stats & Info      
+9473                | 206 | CBS Sports Radio        
+8368                | 210 | SXM Fantasy Sports Radio
+9476                | 211 | Dan Patrick Radio       
+siriuslove          | 290 | SiriusXM Love           
+9415                | 301 | Road Trip Radio         
+9416                | 302 | The Covers Channel      
+9389                | 303 | Venus                   
+9361                | 304 | Velvet                  
+jamon               | 309 | Jam On                  
+9174                | 310 | SXM Rock Hall Radio     
+9420                | 311 | Yacht Rock Radio        
+9175                | 313 | RockBar                 
+faction             | 314 | FACTION PUNK            
+9176                | 316 | SiriusXM Comes Alive!   
+9364                | 330 | SiriusXM Silk           
+9365                | 341 | Utopia                  
+9475                | 349 | Bakersfield Beat        
+9178                | 350 | Red White & Booze       
+9468                | 359 | North Americana         
+9493                | 370 | ESPN Podcasts           
+8369                | 415 | Vivid Radio             
+9454                | 454 | CNN International       
+8237                | 455 | C-SPAN Radio            
+9479                | 460 | The Billy Graham Channel
+9414                | 470 | Tubox                   
+9404                | 701 | Carolina Shag Radio     
+9419                | 702 | ONEderland              
+9378                | 703 | Oldies Party            
+9372                | 704 | 70s/80s Pop             
+9373                | 705 | 80s/90s Pop             
+9362                | 706 | Elevations              
+9481                | 707 | Stay Home Radio         
+8207                | 710 | The Loft                
+9352                | 711 | Petty's Buried Treasure 
+9470                | 712 | Marky Ramone's Punk Rock
+9447                | 713 | The Emo Project         
+9451                | 714 | Indie 1.0               
+9375                | 715 | Classic Rock Party      
+9353                | 717 | SXM Limited Edition 3   
+9412                | 718 | Celebrate!              
+9402                | 719 | SXM Limited Edition 8   
+9397                | 720 | Sway's Universe         
+9398                | 721 | SXM Limited Edition 4   
+9399                | 726 | SXM Limited Edition 5   
+9400                | 730 | SXM Limited Edition 6   
+8227                | 741 | The Village             
+9401                | 742 | SXM Limited Edition 7   
+9403                | 743 | SXM Limited Edition 9   
+8211                | 750 | Cinemagic               
+9179                | 751 | Krishna Das Yoga Radio  
+9511                | 754 | Poplandia               
+siriuspops          | 755 | SiriusXM Pops           
+9504                | 756 | Les Tubes 80-90         
+9501                | 757 | The Tragically Hip Radio
+9513                | 758 | Iceberg                 
+energie2            | 759 | Attitude Franco         
+9491                | 760 | ATN                     
+9186                | 761 | Águila                  
+9188                | 762 | Caricia                 
+8225                | 763 | Viva                    
+9187                | 764 | Latidos                 
+9185                | 765 | Flow Nación             
+9189                | 766 | Luna                    
+9190                | 767 | Rumbón                  
+9191                | 768 | La Kueva                
+8242                | 769 | Z100/NY                 
+9181                | 770 | Carlin's Corner         
+9503                | 771 | She's So Funny          
+9343                | 775 | Holly                   
+9342                | 776 | Holiday Traditions      
+9483                | 777 | Hallmark Channel Radio  
+9346                | 778 | Holiday Soul            
+9345                | 779 | Country Christmas       
+9484                | 781 | Acoustic Christmas      
+9489                | 782 | Christmas Spirit        
+9344                | 784 | Holiday Pops            
+9521                | 786 | Jolly Christmas         
+9348                | 787 | Navidad                 
+9405                | 790 | Entertainment Now       
+9363                | 791 | Jason Ellis             
+9443                | 792 | Ramsey Media            
+9505                | 793 | Court TV                
+0000                | 794 | SiriusXM Preview        
+cnnespanol          | 795 | CNN en Español          
