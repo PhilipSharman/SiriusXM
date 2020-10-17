@@ -11,6 +11,11 @@
 #	v 1.7	- Moved the custom items to the bottom. PHS, 2019-12-19
 #	v 1.8	- Added 'nytprof/'. PHS, 2020-06-15
 ##############################################################################################################
+# Project specific stuff
+private/
+private/*.*
+
+##############################################################################################################
 # My standard stuff #
 *~
 .DS_Store
@@ -276,3 +281,4 @@ iOSInjectionProject/
 # Things specific to this repo
 
 
+/
